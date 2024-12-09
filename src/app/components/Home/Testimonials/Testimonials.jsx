@@ -25,7 +25,7 @@ export default function Testimonials() {
               <p className="text-[12px]">{testimonial.opinion}</p>
               <div className="flex gap-2">
                 {Array.from({ length: testimonial.rating }).map((_, index) => (
-                  <StarIcon className="text-secondary" />
+                  <StarIcon key={index} className="text-secondary" />
                 ))}
               </div>
             </div>
