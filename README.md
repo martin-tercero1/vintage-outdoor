@@ -12,4 +12,4 @@ In the /public folder you can found a screenshot of the original homepage and al
  - Dependencies: React Icons, twMerge
 
 ## Deploy on Vercel
-The homepage was deployed using Vercel and can be visited in this link: 
+The homepage was deployed using Vercel and can be visited in this link: [https://vintage-outdoor.vercel.app]
