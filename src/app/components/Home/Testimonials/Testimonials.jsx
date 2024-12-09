@@ -9,8 +9,8 @@ export default function Testimonials() {
     <div className="w-screen h-[670px] bg-gray flex flex-col">
       <TitleSection
         title="Testimonials"
-        subtitle="Don't just take our word for it—hear from our satisfied clients! We take pride in the strong relationships
-      we've built with our clients, and their feedback speaks to our commitment to excellence."
+        subtitle="Don&apos;t just take our word for it—hear from our satisfied clients! We take pride in the strong relationships
+      we&apos;ve built with our clients, and their feedback speaks to our commitment to excellence."
         className="max-w-[950px] mx-auto"
       />
 

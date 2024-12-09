@@ -21,7 +21,7 @@ export default function Gallery() {
           <hr className="w-[200px] text-primary" />
           <p>
             Take a look at our recent projects to see the quality and creativity
-            we bring to every job. Whether it's a beautifully landscaped garden
+            we bring to every job. Whether it&apos;s a beautifully landscaped garden
             or a newly built home, our portfolio showcases the best of what
             Vintage Outdoor Inc. and Vintage Construction Inc. can offer.
           </p>

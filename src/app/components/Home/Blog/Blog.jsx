@@ -8,8 +8,8 @@ export default function Blog() {
     <div className="w-screen h-[720px] p-10 flex flex-col items-center">
       <TitleSection
         title="Our Blog"
-        subtitle="Whether you're looking for expert advice, project inspiration, or updates on our recent
-work, you'll find it all here. Explore our articles to stay informed and inspired!"
+        subtitle="Whether you&apos;re looking for expert advice, project inspiration, or updates on our recent
+work, you&apos;ll find it all here. Explore our articles to stay informed and inspired!"
         className="max-w-[800px]"
       />
       <div className="flex justify-around w-full h-[350px]">

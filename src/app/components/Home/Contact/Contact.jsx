@@ -17,16 +17,22 @@ export default function Contact() {
               alt="Logo Vintage Outdoor"
             />
           </div>
-          <span className={`${libre_baskerville.className} text-7xl text-white`}>Contact Us</span>
+          <span
+            className={`${libre_baskerville.className} text-7xl text-white`}
+          >
+            Contact Us
+          </span>
         </div>
       </div>
       <div className="w-screen h-[750px] bg-gray p-20 pb-40 flex ">
         <div className="flex flex-col gap-4 w-1/2 px-20">
-          <h6 className={`${libre_baskerville.className} text-5xl leading-tight`}>
+          <h6
+            className={`${libre_baskerville.className} text-5xl leading-tight`}
+          >
             Ready to <br /> <span className="text-secondary">Get Started?</span>
           </h6>
           <p>
-            Whether you're planning a stunning outdoor retreat, or a major
+            Whether you&apos;re planning a stunning outdoor retreat, or a major
             construction project, Vintage Outdoor Inc. and Vintage Construction
             Inc. are here to help.
           </p>

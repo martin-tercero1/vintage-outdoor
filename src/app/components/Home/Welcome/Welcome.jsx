@@ -43,12 +43,12 @@ export default function Welcome() {
         </p>
         <p>
           With years of expertise in custom design, installation, and
-          maintenance, our goal is to bring your vision to life, whether you're
+          maintenance, our goal is to bring your vision to life, whether you&apos;re
           dreaming of a serene garden, a luxurious outdoor living space, or a
           vibrant and functional yard.
         </p>
         <p>
-          But we don't just stop at the outdoors. We're excited to introduce
+          But we don&apos;t just stop at the outdoors. We&apos;re excited to introduce
           Vintage Construction Inc., a new division of our company specializing
           in high-quality construction services. From new home builds to
           remodels, ADUs, and commercial projects, Vintage Construction Inc. is
